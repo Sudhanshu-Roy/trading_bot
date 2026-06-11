@@ -49,6 +49,7 @@ trading_bot/
 │
 ├── .env
 │
+├── streamlit_app.py
 └── README.md
 ```
 
@@ -67,7 +68,7 @@ trading_bot/
 ### 1. Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Sudhanshu-Roy/trading_bot
 cd trading_bot
 ```
 
