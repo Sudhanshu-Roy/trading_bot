@@ -258,6 +258,8 @@ Launch:
 ```
 streamlit run streamlit_app.py
 ```
+<img width="1453" height="934" alt="Screenshot 2026-06-11 203020" src="https://github.com/user-attachments/assets/60e4bd0e-8e26-4fe4-bff8-97b81854a822" />
+
 
 This provides a lightweight graphical interface
 for placing Futures Testnet orders in addition
